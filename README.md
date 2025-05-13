@@ -8,4 +8,4 @@ Key Features
       Visualizations: Generating plots to interpret trends and seasonality
 
 Packages:
-      Forecast, ggplot2, dplyr, corrgram, corrplot, imputeTS, quantmod, tm, tokenizers. SnowballC, textstem, gutenbergr, string, RColorBrewer, topicmodels, LDAvis, serve, survival, gridextra, maps, viridis, plotly, gapminder.
+      Forecast, ggplot2, dplyr, corrgram, corrplot, imputeTS, quantmod, tm, tokenizers. SnowballC, textstem, gutenbergr, string, RColorBrewer, topicmodels, LDAvis, serve, survival, gridextra, maps, viridis, plotly, gapminder, faraway, lavaan.
