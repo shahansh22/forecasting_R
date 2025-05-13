@@ -8,4 +8,4 @@ Key Features
       Visualizations: Generating plots to interpret trends and seasonality
 
 Packages:
-      Forecast, ggplot2, dplyr, corrgram, corrplot, imputeTS, quantmod
+      Forecast, ggplot2, dplyr, corrgram, corrplot, imputeTS, quantmod, tm, tokenizers. SnowballC, textstem, gutenbergr
