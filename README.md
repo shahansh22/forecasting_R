@@ -8,5 +8,4 @@ Key Features
       Visualizations: Generating plots to interpret trends and seasonality
 
 Packages:
-      Forecast package: Used for predictive modeling
-      ggplot2: For visualization of time-series trends
+      Forecast, ggplot2, dplyr, corrgram, corrplot
